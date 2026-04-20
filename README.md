@@ -26,5 +26,6 @@ To identify patterns in income, age, and commute distance that affect buying dec
 - Data Cleaning
 - Data Analysis
 - Data Visualization
+
 ## 📸 Dashboard Preview
-![Dashboard]([PASTE-YOUR-IMAGE-LINK-HERE](https://github.com/munluns451/bike-sales-dashboard-excel/blob/main/bike-dashboard.png))
+![Dashboard](https://github.com/munluns451/bike-sales-dashboard-excel/blob/main/bike-dashboard.png)
