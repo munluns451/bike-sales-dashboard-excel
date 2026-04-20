@@ -1,5 +1,10 @@
 # 📊 Bike Sales Dashboard (Excel Project)
 
+This project was created as part of my learning using a tutorial from Alex The Analyst (YouTube).
+I followed the steps and practiced building dashboards using Excel.
+
+I plan to build my own original projects next using real-world datasets.
+
 ## 📌 Overview
 This project analyzes customer data to understand factors influencing bike purchases.
 
